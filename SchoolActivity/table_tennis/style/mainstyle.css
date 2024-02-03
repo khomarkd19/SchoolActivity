@@ -1,0 +1,108 @@
+#home{
+    position: relative;
+    padding-top: 160px;
+    width: 100%;
+    height: 800px;
+}
+#firstmage{
+    height: 10cm;
+    width: 15cm;
+    border-radius: 40px;
+}
+.imagepos{
+    position: absolute;
+    top: 200px;
+    right: 350px;
+    padding-left: 850px;
+}
+#p1{
+    font-size: x-large;
+    padding-left: 360px;
+    color: aliceblue;
+}
+
+button{
+    background-color: #AA0707;
+    width:300px;
+    height: 80px;
+    border-style: none;
+    border-radius: 40px;
+}
+.vertical-center {
+    padding-top: 280px;
+    padding-left: 810px;
+  }
+
+#h1w{
+    font-size: 80px;
+
+    padding-left: 350PX;
+    color: aliceblue;
+}
+#h1q{
+    text-align: center;
+    font-size: 70px;
+    color: aliceblue;
+}
+body{
+    background-color:  #07041E;
+}
+
+table,td{
+    border: 1px solid;
+    padding: 2px;
+    
+}
+th{
+    background-color: #4F0832;
+    border-color: #4F0832;
+    border: 1px solid;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin: 30px;
+    position: center;
+}
+table
+{
+
+    border-collapse: collapse;
+}
+
+#players{
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    background-color: #E00A24;
+    
+}
+
+#rules{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    background-color: #E00A24;
+}
+#gamesetup{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    background-color: #E00A24;
+}
+
+#head1{
+    text-align: center;
+}
